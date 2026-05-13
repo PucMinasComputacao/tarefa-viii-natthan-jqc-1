@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LuUWxNIu)
-# Trabalho Prático - Semana 6
+# Trabalho Prático - Semana 8
 
 Nessa atividade, como sempre, vamos evoluir o que foi feito na semana anterior. Fique atento para fazer o projeto da semana anterior e dar sequência nessa jornada.
 
@@ -9,18 +9,27 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Nathan Junquer de  Almeida Castro
+- Matricula: 915378
 - Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
 
-## Print da versão responsiva com Bootstrap [DESKTOP]
+- Objetos JSON
+- Arrays
+- Iterators em JavaScript
+- Manipulação do DOM
 
-<<  COLOQUE A IMAGEM AQUI >>
+## Print Console 
 
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
+![Print console](public/img/console.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
+## Print da Página
+
+![Print página](public/img/div.png)
+
+
+
+
+
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
